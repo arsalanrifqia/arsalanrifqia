@@ -1,6 +1,6 @@
-#👋 Hi, I’m Rifqi
+# 👋 Hi, I’m Rifqi
 
-##🚀 About Me
+## 🚀 About Me 
 
 ###👀 I’m interested in Cloud Computing, Backend Development, Machine Learning, and Photography.
 
@@ -12,7 +12,7 @@
 
 ###📸 I enjoy photography and photo manipulation (editing) as a hobby.
 
-##🔧 Skills
+## 🔧 Skills
 
 *Languages: JavaScript, Ruby, Python
 
