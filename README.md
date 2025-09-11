@@ -8,15 +8,15 @@
 
 ## 🔧 Skills
 * Languages: JavaScript, Ruby, Python, PHP
-* Backend: Node.js, Express.js, Ruby on Rails
-* Databases: MongoDB, PostgreSQL, Firebase, Mysql
+* Backend: Node.js, Express.js, Ruby on Rails, CodeIgniter
+* Databases: MongoDB, PostgreSQL, Firebase, MySQL
 * Cloud: Google Cloud Platform (GCP), Firebase, Cloud Functions
 * Tools: Git, Docker, Kubernetes, Photoshop
 
 ## 📫 How to reach me
 * Email: arsalanrifqiarrasay@gmail.com
-* LinkedIn: https://www.linkedin.com/in/arsalan-rifqi-arrasay-987394222
-* GitHub: https://github.com/arsalanrifqia
+* LinkedIn: [linkedin.com/in/arsalan-rifqi-arrasay-987394222](https://www.linkedin.com/in/arsalan-rifqi-arrasay-987394222)
+* GitHub: [github.com/arsalanrifqia](https://github.com/arsalanrifqia)
 
 ## Let's connect and collaborate! 🚀
 
