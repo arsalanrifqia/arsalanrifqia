@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Rifqi
 
 ## 🚀 About Me 
-### 👀 I’m interested in Cloud Computing, Backend Development, Machine Learning, and Photography.
-### 💼 I have experience in backend development and cloud deployment.
+### 👀 I’m interested in Cloud Computing and Backend Development
+### 💼 I have experience in backend development and cloud deployment mostly with GCP.
 ### 🎯 I’m looking to collaborate on projects related to backend systems, cloud solutions, and automation.
 ### 📸 I enjoy photography and photo manipulation (editing) as a hobby.
 
 ## 🔧 Skills
-* Languages: JavaScript, Ruby, Python
+* Languages: JavaScript, Ruby, Python, PHP
 * Backend: Node.js, Express.js, Ruby on Rails
-* Databases: MongoDB, PostgreSQL, Firebase
+* Databases: MongoDB, PostgreSQL, Firebase, Mysql
 * Cloud: Google Cloud Platform (GCP), Firebase, Cloud Functions
 * Tools: Git, Docker, Kubernetes, Photoshop
 
