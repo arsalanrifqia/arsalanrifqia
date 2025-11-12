@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arsalan
+# 👋 Hi, I’m Rifqi
 
 ## 🚀 About Me 
 ### 👀 I’m interested in Cloud Computing and Backend Development
@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me
 * Email: arsalanrifqiarrasay@gmail.com
-* LinkedIn: [linkedin.com/in/arsalan-rifqi-arrasay-987394222](https://www.linkedin.com/in/arsalan-rifqi-arrasay)
+* LinkedIn: [https://www.linkedin.com/in/arsalan-rifqi-arrasay](https://www.linkedin.com/in/arsalan-rifqi-arrasay)
 * GitHub: [github.com/arsalanrifqia](https://github.com/arsalanrifqia)
 
 ## Let's connect and collaborate! 🚀
