@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me
 * Email: arsalanrifqiarrasay@gmail.com
-* LinkedIn: [linkedin.com/in/arsalan-rifqi-arrasay-987394222](https://www.linkedin.com/in/arsalan-rifqi-arrasay-987394222)
+* LinkedIn: [linkedin.com/in/arsalan-rifqi-arrasay-987394222](https://www.linkedin.com/in/arsalan-rifqi-arrasay)
 * GitHub: [github.com/arsalanrifqia](https://github.com/arsalanrifqia)
 
 ## Let's connect and collaborate! 🚀
